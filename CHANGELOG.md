@@ -993,7 +993,7 @@
 
 ### Maintenance
 
-* Clarify "migrating to gem-theme" instructions in **Quick Start Guide**.
+* Clarify "migrating to gem-theme" instructions in **Guide**.
 * Add `rake preview` task for testing `/test` during theme development.
 
 ## [4.0.5](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.0.5)
