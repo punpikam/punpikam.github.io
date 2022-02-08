@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #make changes later
   - title: "Podcast"
     url: https://thebanalpodcast.com/ #put podcast link
-  - title: "Home"
+  - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #add
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
