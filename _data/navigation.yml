@@ -6,10 +6,10 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #make changes later
 
 
-      - title: "Podcast"
+  - title: "Podcast"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #put podcast link
 
-    - title: "Home"
+  - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
