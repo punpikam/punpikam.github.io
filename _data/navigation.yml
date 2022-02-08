@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #make changes later
   - title: "Podcast"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #put podcast link
+    url: https://thebanalpodcast.com/ #put podcast link
   - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
