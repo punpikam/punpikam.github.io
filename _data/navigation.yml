@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #make changes later
+  - title: "About"
+    url: https://thebanalpodcast.com/ #put podcast link
   - title: "Podcast"
     url: https://thebanalpodcast.com/ #put podcast link
   - title: "Quick-Start Guide"
